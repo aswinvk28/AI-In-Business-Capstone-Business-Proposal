@@ -3,6 +3,7 @@
 ## Udacity | Bertelsmann
 
 # Capstone Project Proposal
+# Create Traffic Barrier (Gate) Identification App
 
 ![./udacity-logo.png](./udacity-logo.png)
 
